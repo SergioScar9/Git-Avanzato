@@ -1,7 +1,7 @@
-h1 {
-    color: blue;
+h1{
+    color: blue
 }
-
 li {
-    background-color: yellow;
+    background-color: aquamarine;
+    list-style: square;
 }
